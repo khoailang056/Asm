@@ -28,3 +28,6 @@ C:\Users\phan\Desktop\Bảo mật & An toàn mạng\anptps02253_asm_gd2\Asm\lab5
 C:\Users\phan\Desktop\Bảo mật & An toàn mạng\anptps02253_asm_final\Asm\lab5\obj\x86\Debug\lab5.exe
 C:\Users\phan\Desktop\Bảo mật & An toàn mạng\anptps02253_asm_final\Asm\lab5\obj\x86\Debug\lab5.xml
 C:\Users\phan\Desktop\Bảo mật & An toàn mạng\anptps02253_asm_final\Asm\lab5\obj\x86\Debug\lab5.pdb
+E:\Asm\obj\x86\Debug\lab5.exe
+E:\Asm\obj\x86\Debug\lab5.xml
+E:\Asm\obj\x86\Debug\lab5.pdb

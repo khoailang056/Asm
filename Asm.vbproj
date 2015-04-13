@@ -72,6 +72,12 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FormThem.Designer.vb">
+      <DependentUpon>FormThem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormThem.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="QuanLyLop.Designer.vb">
       <DependentUpon>QuanLyLop.vb</DependentUpon>
     </Compile>
